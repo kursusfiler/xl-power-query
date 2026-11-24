@@ -25,6 +25,7 @@ C:\Kursusfiler\
 ├── AWC\
 │   └── Sales Data\
 ├── CSV-filer\
+├── Diverse\
 ├── Extra Labs\
 ├── Løsninger\
 └── Ressourcer\
