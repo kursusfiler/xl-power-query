@@ -1,0 +1,37 @@
+let
+    
+    // Hent parameterværdierne fra parametertabellen
+    Start = fxHentParameter ("StartDato" ),
+    Slut = fxHentParameter ( "SlutDato" ),
+    MinEnheder = fxHentParameter ( "MinAntalSolgteEnheder" ),
+    MinRabat = fxHentParameter ( "MinRabatProcent" ),
+    MaksRabat = fxHentParameter ( "MaksRabatProcent" ),
+ 
+    // Opret forbindelse til Rådatalisten
+    Kilde = Rådata,
+    
+    // Periodefiltrering
+    FiltrerPeriode = 
+    Table.SelectRows (
+        Kilde,
+        each [Dato] >= Start and [Dato] <=  Slut
+    ),
+
+    //Enhedsfiltrering
+    FiltrerEnheder = 
+    Table.SelectRows (
+        FiltrerPeriode, 
+        each [Antal solgte enheder] > MinEnheder
+    ),
+
+    // Rabatfiltrering
+    // Hvis rabatten findes som en procentkolonne, filtreres denne direkte
+    // uden beregningen (Rabatter / Bruttosalg) 
+    FiltrerRabat =
+    Table.SelectRows (
+        FiltrerEnheder,
+        each ( [Rabatter] / [Bruttosalg] ) >= MinRabat and 
+            ( [Rabatter] / [Bruttosalg] ) <= MaksRabat
+    )
+in
+    FiltrerRabat
