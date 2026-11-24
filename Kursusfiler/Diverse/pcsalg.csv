@@ -1,0 +1,892 @@
+Dato;Fakturanr.; Kunde ;Sælger;Varegruppe;Vare; Antal ; Pris 
+02-04-2012;1001; Tøj 'r' Os ;Bente; Mus ; Apple Mouse ;11;400
+02-04-2012;1001; Tøj 'r' Os ;Bente; Tastatur ; Apple Keyboard (small) ;14;695
+02-04-2012;1001; Tøj 'r' Os ;Bente; Skærm ; HP Superskærm ;2;1.400,00
+02-04-2012;1001; Tøj 'r' Os ;Bente; Tastatur ; Logitech Supertastatur ;13;500
+03-04-2012;1002; Bumbumland ;Carsten; Computer ; Mac Pro ;7;28.000,00
+03-04-2012;1002; Bumbumland ;Carsten; Mus ; Microsoft X-mouse ;19;345
+03-04-2012;1002; Bumbumland ;Carsten; Computer ; iMac ;12;10.000,00
+04-04-2012;1003; Ministeriet ;Dan; Tastatur ; Apple Keyboard (small) ;10;695
+04-04-2012;1003; Ministeriet ;Dan; Skærm ; Samsung X27 ;1;1.900,00
+04-04-2012;1003; Ministeriet ;Dan; Tastatur ; Logitech Supertastatur ;8;500
+05-04-2012;1004; Butikken ;Hans; Computer ; Mac Pro ;8;28.000,00
+05-04-2012;1004; Butikken ;Hans; Computer ; Microsoft Surface ;18;6.000,00
+05-04-2012;1004; Butikken ;Hans; Mus ; Apple Mouse ;14;400
+05-04-2012;1004; Butikken ;Hans; Mus ; Microsoft Sculpt-mus ;13;320
+06-04-2012;1005; Mosteriet ;Frederikke; Mus ; Microsoft X-mouse ;13;345
+06-04-2012;1005; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (small) ;14;695
+06-04-2012;1005; Mosteriet ;Frederikke; Tastatur ; Logitech Supertastatur ;11;500
+06-04-2012;1005; Mosteriet ;Frederikke; Computer ; iMac ;19;10.000,00
+06-04-2012;1005; Mosteriet ;Frederikke; Skærm ; HP Superskærm ;20;1.400,00
+06-04-2012;1005; Mosteriet ;Frederikke; Computer ; Microsoft Surface ;3;6.000,00
+07-04-2012;1006; PictureThis ;Erika; Tastatur ; Apple Keyboard (small) ;2;695
+07-04-2012;1006; PictureThis ;Erika; Computer ; Mac Pro ;17;28.000,00
+07-04-2012;1006; PictureThis ;Erika; Computer ; iMac ;16;10.000,00
+07-04-2012;1006; PictureThis ;Erika; Tastatur ; Microsoft Sculpt ;4;620
+07-04-2012;1006; PictureThis ;Erika; Computer ; HP Notebook ;16;5.000,00
+07-04-2012;1006; PictureThis ;Erika; Tastatur ; Apple Keyboard (numeric) ;15;795
+07-04-2012;1006; PictureThis ;Erika; Computer ; Lenova Carbon ;13;10.000,00
+08-04-2012;1007; Jane og saftevandet ;Hans; Computer ; Microsoft Surface ;10;6.000,00
+08-04-2012;1007; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (numeric) ;6;795
+09-04-2012;1008; Coaching A/S ;Ida; Computer ; iMac ;8;10.000,00
+09-04-2012;1008; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (numeric) ;8;795
+09-04-2012;1008; Coaching A/S ;Ida; Mus ; Apple Mouse ;20;400
+10-04-2012;1009; Skrotsamleren ;Jessica; Computer ; Microsoft Surface ;11;6.000,00
+10-04-2012;1009; Skrotsamleren ;Jessica; Computer ; Lenova Carbon ;16;10.000,00
+10-04-2012;1009; Skrotsamleren ;Jessica; Mus ; Microsoft Sculpt-mus ;6;320
+10-04-2012;1009; Skrotsamleren ;Jessica; Mus ; Logitech Supermus ;3;295
+10-04-2012;1009; Skrotsamleren ;Jessica; Computer ; iMac ;5;10.000,00
+10-04-2012;1009; Skrotsamleren ;Jessica; Skærm ; HP Superskærm ;10;1.400,00
+11-04-2012;1010; Dimser ApS ;Anders; Mus ; Logitech Supermus ;10;295
+11-04-2012;1010; Dimser ApS ;Anders; Skærm ; HP Superskærm ;13;1.400,00
+11-04-2012;1010; Dimser ApS ;Anders; Mus ; Microsoft X-mouse ;15;345
+11-04-2012;1010; Dimser ApS ;Anders; Computer ; Lenova Carbon ;3;10.000,00
+11-04-2012;1010; Dimser ApS ;Anders; Computer ; HP Notebook ;4;5.000,00
+12-04-2012;1011; Tøj 'r' Os ;Bente; Computer ; HP Notebook ;17;5.000,00
+12-04-2012;1011; Tøj 'r' Os ;Bente; Tastatur ; Logitech Supertastatur ;15;500
+13-04-2012;1012; Bumbumland ;Carsten; Tastatur ; Apple Keyboard (numeric) ;4;795
+13-04-2012;1012; Bumbumland ;Carsten; Mus ; Apple Mouse ;7;400
+13-04-2012;1012; Bumbumland ;Carsten; Computer ; iMac ;20;10.000,00
+13-04-2012;1012; Bumbumland ;Carsten; Skærm ; HP Superskærm ;18;1.400,00
+14-04-2012;1013; Ministeriet ;Ida; Tastatur ; Apple Keyboard (small) ;14;695
+14-04-2012;1013; Ministeriet ;Ida; Computer ; HP Notebook ;11;5.000,00
+15-04-2012;1014; Butikken ;Erika; Tastatur ; Apple Keyboard (numeric) ;3;795
+15-04-2012;1014; Butikken ;Erika; Computer ; Mac Pro ;9;28.000,00
+15-04-2012;1014; Butikken ;Erika; Mus ; Microsoft X-mouse ;13;345
+15-04-2012;1014; Butikken ;Erika; Computer ; iMac ;7;10.000,00
+15-04-2012;1014; Butikken ;Erika; Tastatur ; Apple Keyboard (small) ;5;695
+15-04-2012;1014; Butikken ;Erika; Tastatur ; Microsoft Sculpt ;11;620
+16-04-2012;1015; Mosteriet ;Frederikke; Tastatur ; Microsoft Sculpt ;18;620
+16-04-2012;1015; Mosteriet ;Frederikke; Computer ; Mac Pro ;7;28.000,00
+16-04-2012;1015; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;3;795
+16-04-2012;1015; Mosteriet ;Frederikke; Mus ; Microsoft Sculpt-mus ;12;320
+16-04-2012;1015; Mosteriet ;Frederikke; Skærm ; Samsung X27 ;17;1.900,00
+17-04-2012;1016; PictureThis ;Gunnar; Computer ; HP Notebook ;15;5.000,00
+17-04-2012;1016; PictureThis ;Gunnar; Skærm ; Samsung X27 ;6;1.900,00
+17-04-2012;1016; PictureThis ;Gunnar; Tastatur ; Logitech Supertastatur ;9;500
+17-04-2012;1016; PictureThis ;Gunnar; Skærm ; HP Superskærm ;3;1.400,00
+17-04-2012;1016; PictureThis ;Gunnar; Mus ; Logitech Supermus ;19;295
+18-04-2012;1017; Jane og saftevandet ;Hans; Mus ; Logitech Supermus ;10;295
+18-04-2012;1017; Jane og saftevandet ;Hans; Tastatur ; Microsoft Sculpt ;4;620
+18-04-2012;1017; Jane og saftevandet ;Hans; Computer ; Microsoft Surface ;13;6.000,00
+18-04-2012;1017; Jane og saftevandet ;Hans; Computer ; iMac ;16;10.000,00
+18-04-2012;1017; Jane og saftevandet ;Hans; Computer ; Lenova Carbon ;11;10.000,00
+18-04-2012;1017; Jane og saftevandet ;Hans; Skærm ; Samsung X27 ;7;1.900,00
+18-04-2012;1017; Jane og saftevandet ;Hans; Mus ; Apple Mouse ;12;400
+18-04-2012;1017; Jane og saftevandet ;Hans; Skærm ; HP Superskærm ;3;1.400,00
+19-04-2012;1018; Coaching A/S ;Ida; Skærm ; HP Superskærm ;3;1.400,00
+19-04-2012;1018; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (numeric) ;11;795
+19-04-2012;1018; Coaching A/S ;Ida; Skærm ; Samsung X27 ;14;1.900,00
+20-04-2012;1019; Skrotsamleren ;Jessica; Mus ; Logitech Supermus ;5;295
+20-04-2012;1019; Skrotsamleren ;Jessica; Skærm ; HP Superskærm ;12;1.400,00
+20-04-2012;1019; Skrotsamleren ;Jessica; Tastatur ; Apple Keyboard (numeric) ;13;795
+20-04-2012;1019; Skrotsamleren ;Jessica; Mus ; Microsoft Sculpt-mus ;12;320
+21-04-2012;1020; Dimser ApS ;Anders; Computer ; Mac Pro ;13;28.000,00
+21-04-2012;1020; Dimser ApS ;Anders; Mus ; Microsoft Sculpt-mus ;8;320
+21-04-2012;1020; Dimser ApS ;Anders; Tastatur ; Apple Keyboard (small) ;2;695
+21-04-2012;1020; Dimser ApS ;Anders; Skærm ; HP Superskærm ;20;1.400,00
+22-04-2012;1021; Tøj 'r' Os ;Anders; Computer ; HP Notebook ;19;5.000,00
+22-04-2012;1021; Tøj 'r' Os ;Anders; Computer ; Microsoft Surface ;18;6.000,00
+22-04-2012;1021; Tøj 'r' Os ;Anders; Skærm ; HP Superskærm ;5;1.400,00
+22-04-2012;1021; Tøj 'r' Os ;Anders; Mus ; Logitech Supermus ;4;295
+22-04-2012;1021; Tøj 'r' Os ;Anders; Tastatur ; Microsoft Sculpt ;14;620
+23-04-2012;1022; Bumbumland ;Carsten; Computer ; HP Notebook ;18;5.000,00
+23-04-2012;1022; Bumbumland ;Carsten; Tastatur ; Apple Keyboard (small) ;9;695
+24-04-2012;1023; Ministeriet ;Dan; Skærm ; Samsung X27 ;11;1.900,00
+24-04-2012;1023; Ministeriet ;Dan; Tastatur ; Microsoft Sculpt ;20;620
+24-04-2012;1023; Ministeriet ;Dan; Tastatur ; Apple Keyboard (numeric) ;18;795
+24-04-2012;1023; Ministeriet ;Dan; Computer ; Lenova Carbon ;20;10.000,00
+25-04-2012;1024; Butikken ;Erika; Tastatur ; Logitech Supertastatur ;4;500
+25-04-2012;1024; Butikken ;Erika; Mus ; Apple Mouse ;6;400
+25-04-2012;1024; Butikken ;Erika; Tastatur ; Apple Keyboard (small) ;7;695
+25-04-2012;1024; Butikken ;Erika; Computer ; Mac Pro ;13;28.000,00
+26-04-2012;1025; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;3;795
+26-04-2012;1025; Mosteriet ;Frederikke; Tastatur ; Logitech Supertastatur ;18;500
+26-04-2012;1025; Mosteriet ;Frederikke; Mus ; Apple Mouse ;10;400
+27-04-2012;1026; PictureThis ;Gunnar; Skærm ; Samsung X27 ;7;1.900,00
+27-04-2012;1026; PictureThis ;Gunnar; Computer ; HP Notebook ;13;5.000,00
+27-04-2012;1026; PictureThis ;Gunnar; Skærm ; HP Superskærm ;4;1.400,00
+27-04-2012;1026; PictureThis ;Gunnar; Tastatur ; Logitech Supertastatur ;17;500
+27-04-2012;1026; PictureThis ;Gunnar; Mus ; Microsoft X-mouse ;6;345
+28-04-2012;1027; Jane og saftevandet ;Bente; Mus ; Microsoft X-mouse ;6;345
+28-04-2012;1027; Jane og saftevandet ;Bente; Tastatur ; Apple Keyboard (numeric) ;6;795
+28-04-2012;1027; Jane og saftevandet ;Bente; Computer ; Lenova Carbon ;3;10.000,00
+28-04-2012;1027; Jane og saftevandet ;Bente; Skærm ; HP Superskærm ;17;1.400,00
+28-04-2012;1027; Jane og saftevandet ;Bente; Mus ; Logitech Supermus ;3;295
+28-04-2012;1027; Jane og saftevandet ;Bente; Mus ; Microsoft Sculpt-mus ;11;320
+29-04-2012;1028; Coaching A/S ;Ida; Computer ; HP Notebook ;10;5.000,00
+29-04-2012;1028; Coaching A/S ;Ida; Mus ; Logitech Supermus ;5;295
+29-04-2012;1028; Coaching A/S ;Ida; Skærm ; Samsung X27 ;6;1.900,00
+30-04-2012;1029; Skrotsamleren ;Jessica; Mus ; Microsoft X-mouse ;17;345
+30-04-2012;1029; Skrotsamleren ;Jessica; Mus ; Apple Mouse ;6;400
+30-04-2012;1029; Skrotsamleren ;Jessica; Skærm ; Samsung X27 ;16;1.900,00
+30-04-2012;1029; Skrotsamleren ;Jessica; Mus ; Microsoft Sculpt-mus ;20;320
+30-04-2012;1029; Skrotsamleren ;Jessica; Computer ; HP Notebook ;8;5.000,00
+30-04-2012;1029; Skrotsamleren ;Jessica; Tastatur ; Logitech Supertastatur ;14;500
+01-05-2012;1030; Dimser ApS ;Anders; Tastatur ; Microsoft Sculpt ;5;620
+01-05-2012;1030; Dimser ApS ;Anders; Computer ; Lenova Carbon ;12;10.000,00
+01-05-2012;1030; Dimser ApS ;Anders; Mus ; Apple Mouse ;9;400
+01-05-2012;1030; Dimser ApS ;Anders; Mus ; Logitech Supermus ;9;295
+02-05-2012;1031; Tøj 'r' Os ;Bente; Computer ; Mac Pro ;3;28.000,00
+02-05-2012;1031; Tøj 'r' Os ;Bente; Computer ; iMac ;20;10.000,00
+03-05-2012;1032; Bumbumland ;Carsten; Mus ; Apple Mouse ;10;400
+03-05-2012;1032; Bumbumland ;Carsten; Mus ; Microsoft Sculpt-mus ;18;320
+03-05-2012;1032; Bumbumland ;Carsten; Computer ; Microsoft Surface ;2;6.000,00
+03-05-2012;1032; Bumbumland ;Carsten; Tastatur ; Logitech Supertastatur ;3;500
+04-05-2012;1033; Ministeriet ;Dan; Tastatur ; Apple Keyboard (numeric) ;5;795
+04-05-2012;1033; Ministeriet ;Dan; Computer ; HP Notebook ;4;5.000,00
+05-05-2012;1034; Butikken ;Carsten; Computer ; HP Notebook ;14;5.000,00
+05-05-2012;1034; Butikken ;Carsten; Tastatur ; Apple Keyboard (numeric) ;4;795
+05-05-2012;1034; Butikken ;Carsten; Tastatur ; Microsoft Sculpt ;6;620
+05-05-2012;1034; Butikken ;Carsten; Computer ; iMac ;18;10.000,00
+06-05-2012;1035; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (small) ;15;695
+06-05-2012;1035; Mosteriet ;Frederikke; Tastatur ; Microsoft Sculpt ;15;620
+06-05-2012;1035; Mosteriet ;Frederikke; Mus ; Microsoft X-mouse ;17;345
+07-05-2012;1036; PictureThis ;Gunnar; Mus ; Apple Mouse ;16;400
+07-05-2012;1036; PictureThis ;Gunnar; Mus ; Logitech Supermus ;2;295
+07-05-2012;1036; PictureThis ;Gunnar; Tastatur ; Microsoft Sculpt ;4;620
+07-05-2012;1036; PictureThis ;Gunnar; Mus ; Microsoft Sculpt-mus ;12;320
+07-05-2012;1036; PictureThis ;Gunnar; Tastatur ; Apple Keyboard (numeric) ;3;795
+07-05-2012;1036; PictureThis ;Gunnar; Computer ; Microsoft Surface ;14;6.000,00
+08-05-2012;1037; Jane og saftevandet ;Hans; Tastatur ; Microsoft Sculpt ;15;620
+08-05-2012;1037; Jane og saftevandet ;Hans; Mus ; Logitech Supermus ;14;295
+08-05-2012;1037; Jane og saftevandet ;Hans; Computer ; Lenova Carbon ;10;10.000,00
+08-05-2012;1037; Jane og saftevandet ;Hans; Skærm ; HP Superskærm ;8;1.400,00
+09-05-2012;1038; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (small) ;11;695
+09-05-2012;1038; Coaching A/S ;Ida; Tastatur ; Microsoft Sculpt ;3;620
+09-05-2012;1038; Coaching A/S ;Ida; Computer ; Microsoft Surface ;16;6.000,00
+09-05-2012;1038; Coaching A/S ;Ida; Computer ; iMac ;6;10.000,00
+09-05-2012;1038; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (numeric) ;20;795
+10-05-2012;1039; Skrotsamleren ;Carsten; Computer ; Lenova Carbon ;4;10.000,00
+10-05-2012;1039; Skrotsamleren ;Carsten; Tastatur ; Apple Keyboard (numeric) ;13;795
+11-05-2012;1040; Dimser ApS ;Anders; Tastatur ; Logitech Supertastatur ;4;500
+11-05-2012;1040; Dimser ApS ;Anders; Tastatur ; Apple Keyboard (small) ;10;695
+11-05-2012;1040; Dimser ApS ;Anders; Computer ; iMac ;5;10.000,00
+11-05-2012;1040; Dimser ApS ;Anders; Computer ; Microsoft Surface ;16;6.000,00
+11-05-2012;1040; Dimser ApS ;Anders; Mus ; Microsoft Sculpt-mus ;5;320
+12-05-2012;1041; Tøj 'r' Os ;Bente; Mus ; Logitech Supermus ;18;295
+12-05-2012;1041; Tøj 'r' Os ;Bente; Mus ; Apple Mouse ;17;400
+12-05-2012;1041; Tøj 'r' Os ;Bente; Computer ; iMac ;15;10.000,00
+12-05-2012;1041; Tøj 'r' Os ;Bente; Skærm ; HP Superskærm ;2;1.400,00
+12-05-2012;1041; Tøj 'r' Os ;Bente; Computer ; Mac Pro ;20;28.000,00
+12-05-2012;1041; Tøj 'r' Os ;Bente; Computer ; HP Notebook ;1;5.000,00
+12-05-2012;1041; Tøj 'r' Os ;Bente; Tastatur ; Logitech Supertastatur ;16;500
+13-05-2012;1042; Bumbumland ;Carsten; Tastatur ; Microsoft Sculpt ;12;620
+13-05-2012;1042; Bumbumland ;Carsten; Computer ; Lenova Carbon ;9;10.000,00
+13-05-2012;1042; Bumbumland ;Carsten; Tastatur ; Apple Keyboard (small) ;5;695
+13-05-2012;1042; Bumbumland ;Carsten; Mus ; Logitech Supermus ;17;295
+14-05-2012;1043; Ministeriet ;Dan; Computer ; HP Notebook ;13;5.000,00
+14-05-2012;1043; Ministeriet ;Dan; Tastatur ; Apple Keyboard (small) ;11;695
+14-05-2012;1043; Ministeriet ;Dan; Skærm ; Samsung X27 ;7;1.900,00
+14-05-2012;1043; Ministeriet ;Dan; Computer ; Microsoft Surface ;18;6.000,00
+14-05-2012;1043; Ministeriet ;Dan; Mus ; Microsoft Sculpt-mus ;11;320
+14-05-2012;1043; Ministeriet ;Dan; Tastatur ; Apple Keyboard (numeric) ;12;795
+15-05-2012;1044; Butikken ;Carsten; Mus ; Apple Mouse ;16;400
+15-05-2012;1044; Butikken ;Carsten; Mus ; Microsoft Sculpt-mus ;2;320
+15-05-2012;1044; Butikken ;Carsten; Tastatur ; Apple Keyboard (numeric) ;3;795
+16-05-2012;1045; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;4;795
+16-05-2012;1045; Mosteriet ;Frederikke; Skærm ; Samsung X27 ;20;1.900,00
+16-05-2012;1045; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (small) ;17;695
+16-05-2012;1045; Mosteriet ;Frederikke; Mus ; Microsoft Sculpt-mus ;20;320
+17-05-2012;1046; PictureThis ;Gunnar; Tastatur ; Apple Keyboard (small) ;11;695
+17-05-2012;1046; PictureThis ;Gunnar; Mus ; Microsoft Sculpt-mus ;1;320
+17-05-2012;1046; PictureThis ;Gunnar; Mus ; Logitech Supermus ;8;295
+17-05-2012;1046; PictureThis ;Gunnar; Mus ; Microsoft X-mouse ;17;345
+17-05-2012;1046; PictureThis ;Gunnar; Skærm ; HP Superskærm ;6;1.400,00
+18-05-2012;1047; Jane og saftevandet ;Hans; Skærm ; HP Superskærm ;8;1.400,00
+18-05-2012;1047; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (numeric) ;5;795
+18-05-2012;1047; Jane og saftevandet ;Hans; Mus ; Logitech Supermus ;2;295
+18-05-2012;1047; Jane og saftevandet ;Hans; Mus ; Apple Mouse ;16;400
+19-05-2012;1048; Coaching A/S ;Ida; Mus ; Microsoft X-mouse ;11;345
+19-05-2012;1048; Coaching A/S ;Ida; Tastatur ; Microsoft Sculpt ;3;620
+19-05-2012;1048; Coaching A/S ;Ida; Tastatur ; Logitech Supertastatur ;4;500
+19-05-2012;1048; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (numeric) ;4;795
+19-05-2012;1048; Coaching A/S ;Ida; Computer ; Mac Pro ;4;28.000,00
+20-05-2012;1049; Skrotsamleren ;Jessica; Computer ; Lenova Carbon ;4;10.000,00
+20-05-2012;1049; Skrotsamleren ;Jessica; Computer ; Microsoft Surface ;19;6.000,00
+20-05-2012;1049; Skrotsamleren ;Jessica; Tastatur ; Apple Keyboard (numeric) ;6;795
+20-05-2012;1049; Skrotsamleren ;Jessica; Skærm ; Samsung X27 ;20;1.900,00
+20-05-2012;1049; Skrotsamleren ;Jessica; Mus ; Logitech Supermus ;11;295
+20-05-2012;1049; Skrotsamleren ;Jessica; Tastatur ; Microsoft Sculpt ;13;620
+21-05-2012;1050; Dimser ApS ;Anders; Tastatur ; Microsoft Sculpt ;16;620
+21-05-2012;1050; Dimser ApS ;Anders; Tastatur ; Apple Keyboard (small) ;14;695
+22-05-2012;1051; Tøj 'r' Os ;Bente; Tastatur ; Apple Keyboard (small) ;6;695
+22-05-2012;1051; Tøj 'r' Os ;Bente; Mus ; Logitech Supermus ;4;295
+22-05-2012;1051; Tøj 'r' Os ;Bente; Skærm ; HP Superskærm ;9;1.400,00
+22-05-2012;1051; Tøj 'r' Os ;Bente; Mus ; Microsoft X-mouse ;7;345
+23-05-2012;1052; Bumbumland ;Carsten; Computer ; iMac ;13;10.000,00
+23-05-2012;1052; Bumbumland ;Carsten; Mus ; Microsoft X-mouse ;8;345
+23-05-2012;1052; Bumbumland ;Carsten; Tastatur ; Logitech Supertastatur ;11;500
+23-05-2012;1052; Bumbumland ;Carsten; Skærm ; HP Superskærm ;14;1.400,00
+23-05-2012;1052; Bumbumland ;Carsten; Computer ; HP Notebook ;9;5.000,00
+24-05-2012;1053; Ministeriet ;Dan; Tastatur ; Apple Keyboard (numeric) ;5;795
+24-05-2012;1053; Ministeriet ;Dan; Computer ; Mac Pro ;5;28.000,00
+24-05-2012;1053; Ministeriet ;Dan; Mus ; Apple Mouse ;14;400
+25-05-2012;1054; Butikken ;Erika; Mus ; Microsoft X-mouse ;16;345
+25-05-2012;1054; Butikken ;Erika; Computer ; Microsoft Surface ;1;6.000,00
+25-05-2012;1054; Butikken ;Erika; Tastatur ; Logitech Supertastatur ;17;500
+25-05-2012;1054; Butikken ;Erika; Skærm ; HP Superskærm ;9;1.400,00
+26-05-2012;1055; Mosteriet ;Frederikke; Skærm ; Samsung X27 ;13;1.900,00
+26-05-2012;1055; Mosteriet ;Frederikke; Mus ; Microsoft X-mouse ;13;345
+26-05-2012;1055; Mosteriet ;Frederikke; Computer ; Mac Pro ;1;28.000,00
+26-05-2012;1055; Mosteriet ;Frederikke; Tastatur ; Microsoft Sculpt ;9;620
+26-05-2012;1055; Mosteriet ;Frederikke; Mus ; Microsoft Sculpt-mus ;6;320
+27-05-2012;1056; PictureThis ;Gunnar; Tastatur ; Logitech Supertastatur ;20;500
+27-05-2012;1056; PictureThis ;Gunnar; Computer ; HP Notebook ;3;5.000,00
+27-05-2012;1056; PictureThis ;Gunnar; Tastatur ; Microsoft Sculpt ;3;620
+27-05-2012;1056; PictureThis ;Gunnar; Computer ; Lenova Carbon ;10;10.000,00
+28-05-2012;1057; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (numeric) ;20;795
+28-05-2012;1057; Jane og saftevandet ;Hans; Mus ; Logitech Supermus ;5;295
+28-05-2012;1057; Jane og saftevandet ;Hans; Mus ; Microsoft Sculpt-mus ;14;320
+28-05-2012;1057; Jane og saftevandet ;Hans; Computer ; HP Notebook ;5;5.000,00
+29-05-2012;1058; Coaching A/S ;Jessica; Tastatur ; Apple Keyboard (small) ;13;695
+29-05-2012;1058; Coaching A/S ;Jessica; Mus ; Microsoft X-mouse ;6;345
+29-05-2012;1058; Coaching A/S ;Jessica; Computer ; iMac ;7;10.000,00
+29-05-2012;1058; Coaching A/S ;Jessica; Computer ; Lenova Carbon ;12;10.000,00
+29-05-2012;1058; Coaching A/S ;Jessica; Computer ; Microsoft Surface ;9;6.000,00
+29-05-2012;1058; Coaching A/S ;Jessica; Tastatur ; Logitech Supertastatur ;14;500
+29-05-2012;1058; Coaching A/S ;Jessica; Skærm ; Samsung X27 ;1;1.900,00
+29-05-2012;1058; Coaching A/S ;Jessica; Computer ; HP Notebook ;9;5.000,00
+30-05-2012;1059; Skrotsamleren ;Jessica; Mus ; Microsoft X-mouse ;14;345
+30-05-2012;1059; Skrotsamleren ;Jessica; Skærm ; Samsung X27 ;7;1.900,00
+30-05-2012;1059; Skrotsamleren ;Jessica; Tastatur ; Apple Keyboard (numeric) ;9;795
+31-05-2012;1060; Dimser ApS ;Anders; Tastatur ; Logitech Supertastatur ;19;500
+31-05-2012;1060; Dimser ApS ;Anders; Computer ; Mac Pro ;7;28.000,00
+31-05-2012;1060; Dimser ApS ;Anders; Computer ; HP Notebook ;12;5.000,00
+01-06-2012;1061; Tøj 'r' Os ;Bente; Skærm ; Samsung X27 ;5;1.900,00
+01-06-2012;1061; Tøj 'r' Os ;Bente; Computer ; HP Notebook ;14;5.000,00
+01-06-2012;1061; Tøj 'r' Os ;Bente; Computer ; iMac ;6;10.000,00
+02-06-2012;1062; Bumbumland ;Carsten; Mus ; Microsoft X-mouse ;10;345
+02-06-2012;1062; Bumbumland ;Carsten; Computer ; Microsoft Surface ;15;6.000,00
+02-06-2012;1062; Bumbumland ;Carsten; Mus ; Apple Mouse ;12;400
+02-06-2012;1062; Bumbumland ;Carsten; Computer ; Mac Pro ;19;28.000,00
+03-06-2012;1063; Ministeriet ;Dan; Computer ; Lenova Carbon ;7;10.000,00
+03-06-2012;1063; Ministeriet ;Dan; Mus ; Apple Mouse ;17;400
+03-06-2012;1063; Ministeriet ;Dan; Mus ; Logitech Supermus ;10;295
+03-06-2012;1063; Ministeriet ;Dan; Tastatur ; Apple Keyboard (numeric) ;2;795
+03-06-2012;1063; Ministeriet ;Dan; Mus ; Microsoft X-mouse ;1;345
+03-06-2012;1063; Ministeriet ;Dan; Computer ; Mac Pro ;11;28.000,00
+04-06-2012;1064; Butikken ;Erika; Mus ; Apple Mouse ;14;400
+04-06-2012;1064; Butikken ;Erika; Mus ; Logitech Supermus ;3;295
+04-06-2012;1064; Butikken ;Erika; Computer ; iMac ;12;10.000,00
+04-06-2012;1064; Butikken ;Erika; Tastatur ; Logitech Supertastatur ;7;500
+05-06-2012;1065; Mosteriet ;Frederikke; Computer ; Lenova Carbon ;7;10.000,00
+05-06-2012;1065; Mosteriet ;Frederikke; Tastatur ; Microsoft Sculpt ;13;620
+05-06-2012;1065; Mosteriet ;Frederikke; Tastatur ; Logitech Supertastatur ;8;500
+05-06-2012;1065; Mosteriet ;Frederikke; Skærm ; HP Superskærm ;16;1.400,00
+05-06-2012;1065; Mosteriet ;Frederikke; Mus ; Microsoft Sculpt-mus ;4;320
+05-06-2012;1065; Mosteriet ;Frederikke; Computer ; Mac Pro ;16;28.000,00
+06-06-2012;1066; PictureThis ;Gunnar; Mus ; Logitech Supermus ;14;295
+06-06-2012;1066; PictureThis ;Gunnar; Tastatur ; Microsoft Sculpt ;11;620
+06-06-2012;1066; PictureThis ;Gunnar; Mus ; Microsoft Sculpt-mus ;9;320
+06-06-2012;1066; PictureThis ;Gunnar; Tastatur ; Apple Keyboard (numeric) ;17;795
+07-06-2012;1067; Jane og saftevandet ;Hans; Computer ; Microsoft Surface ;13;6.000,00
+07-06-2012;1067; Jane og saftevandet ;Hans; Computer ; iMac ;3;10.000,00
+07-06-2012;1067; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (numeric) ;5;795
+08-06-2012;1068; Coaching A/S ;Ida; Mus ; Logitech Supermus ;14;295
+08-06-2012;1068; Coaching A/S ;Ida; Tastatur ; Apple Keyboard (small) ;3;695
+08-06-2012;1068; Coaching A/S ;Ida; Tastatur ; Logitech Supertastatur ;2;500
+08-06-2012;1068; Coaching A/S ;Ida; Mus ; Microsoft Sculpt-mus ;3;320
+08-06-2012;1068; Coaching A/S ;Ida; Skærm ; Samsung X27 ;9;1.900,00
+08-06-2012;1068; Coaching A/S ;Ida; Mus ; Microsoft X-mouse ;1;345
+09-06-2012;1069; Skrotsamleren ;Jessica; Computer ; Lenova Carbon ;4;10.000,00
+09-06-2012;1069; Skrotsamleren ;Jessica; Tastatur ; Microsoft Sculpt ;10;620
+09-06-2012;1069; Skrotsamleren ;Jessica; Computer ; HP Notebook ;4;5.000,00
+09-06-2012;1069; Skrotsamleren ;Jessica; Mus ; Logitech Supermus ;19;295
+10-06-2012;1070; Dimser ApS ;Anders; Computer ; HP Notebook ;8;5.000,00
+10-06-2012;1070; Dimser ApS ;Anders; Computer ; Lenova Carbon ;8;10.000,00
+10-06-2012;1070; Dimser ApS ;Anders; Computer ; Mac Pro ;9;28.000,00
+10-06-2012;1070; Dimser ApS ;Anders; Mus ; Microsoft X-mouse ;6;345
+10-06-2012;1070; Dimser ApS ;Anders; Computer ; Microsoft Surface ;5;6.000,00
+10-06-2012;1070; Dimser ApS ;Anders; Skærm ; HP Superskærm ;19;1.400,00
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Tastatur ; Logitech Supertastatur ;17;500
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Computer ; Lenova Carbon ;10;10.000,00
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Tastatur ; Apple Keyboard (small) ;20;695
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Computer ; Mac Pro ;16;28.000,00
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Mus ; Apple Mouse ;3;400
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Computer ; iMac ;13;10.000,00
+11-06-2012;1071; Tøj 'r' Os ;Frederikke; Mus ; Logitech Supermus ;10;295
+12-06-2012;1072; Bumbumland ;Carsten; Mus ; Apple Mouse ;13;400
+12-06-2012;1072; Bumbumland ;Carsten; Computer ; Lenova Carbon ;4;10.000,00
+12-06-2012;1072; Bumbumland ;Carsten; Mus ; Microsoft Sculpt-mus ;17;320
+12-06-2012;1072; Bumbumland ;Carsten; Computer ; Microsoft Surface ;5;6.000,00
+12-06-2012;1072; Bumbumland ;Carsten; Skærm ; HP Superskærm ;6;1.400,00
+12-06-2012;1072; Bumbumland ;Carsten; Mus ; Logitech Supermus ;6;295
+12-06-2012;1072; Bumbumland ;Carsten; Tastatur ; Logitech Supertastatur ;8;500
+13-06-2012;1073; Ministeriet ;Dan; Mus ; Apple Mouse ;1;400
+13-06-2012;1073; Ministeriet ;Dan; Tastatur ; Apple Keyboard (small) ;15;695
+14-06-2012;1074; Butikken ;Erika; Tastatur ; Apple Keyboard (numeric) ;14;795
+14-06-2012;1074; Butikken ;Erika; Computer ; HP Notebook ;18;5.000,00
+15-06-2012;1075; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (small) ;6;695
+15-06-2012;1075; Mosteriet ;Frederikke; Tastatur ; Logitech Supertastatur ;17;500
+15-06-2012;1075; Mosteriet ;Frederikke; Tastatur ; Microsoft Sculpt ;1;620
+15-06-2012;1075; Mosteriet ;Frederikke; Mus ; Microsoft X-mouse ;6;345
+15-06-2012;1075; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;6;795
+16-06-2012;1076; PictureThis ;Gunnar; Computer ; Mac Pro ;4;28.000,00
+16-06-2012;1076; PictureThis ;Gunnar; Computer ; iMac ;7;10.000,00
+16-06-2012;1076; PictureThis ;Gunnar; Tastatur ; Apple Keyboard (small) ;18;695
+16-06-2012;1076; PictureThis ;Gunnar; Mus ; Microsoft Sculpt-mus ;1;320
+16-06-2012;1076; PictureThis ;Gunnar; Skærm ; HP Superskærm ;10;1.400,00
+17-06-2012;1077; Jane og saftevandet ;Hans; Computer ; iMac ;8;10.000,00
+17-06-2012;1077; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (numeric) ;5;795
+18-06-2012;1078; Coaching A/S ;Ida; Mus ; Apple Mouse ;15;400
+18-06-2012;1078; Coaching A/S ;Ida; Skærm ; HP Superskærm ;7;1.400,00
+18-06-2012;1078; Coaching A/S ;Ida; Computer ; Microsoft Surface ;2;6.000,00
+18-06-2012;1078; Coaching A/S ;Ida; Skærm ; Samsung X27 ;17;1.900,00
+19-06-2012;1079; Skrotsamleren ;Jessica; Skærm ; Samsung X27 ;1;1.900,00
+19-06-2012;1079; Skrotsamleren ;Jessica; Mus ; Microsoft Sculpt-mus ;15;320
+19-06-2012;1079; Skrotsamleren ;Jessica; Mus ; Microsoft X-mouse ;3;345
+19-06-2012;1079; Skrotsamleren ;Jessica; Computer ; Lenova Carbon ;20;10.000,00
+20-06-2012;1080; Dimser ApS ;Frederikke; Tastatur ; Microsoft Sculpt ;3;620
+20-06-2012;1080; Dimser ApS ;Frederikke; Mus ; Microsoft X-mouse ;11;345
+20-06-2012;1080; Dimser ApS ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;1;795
+21-06-2012;1081; Tøj 'r' Os ;Bente; Tastatur ; Apple Keyboard (small) ;7;695
+21-06-2012;1081; Tøj 'r' Os ;Bente; Computer ; iMac ;10;10.000,00
+21-06-2012;1081; Tøj 'r' Os ;Bente; Tastatur ; Apple Keyboard (numeric) ;10;795
+21-06-2012;1081; Tøj 'r' Os ;Bente; Skærm ; HP Superskærm ;6;1.400,00
+22-06-2012;1082; Bumbumland ;Carsten; Skærm ; Samsung X27 ;11;1.900,00
+22-06-2012;1082; Bumbumland ;Carsten; Computer ; Mac Pro ;2;28.000,00
+23-06-2012;1083; Ministeriet ;Dan; Computer ; Lenova Carbon ;5;10.000,00
+23-06-2012;1083; Ministeriet ;Dan; Computer ; Microsoft Surface ;11;6.000,00
+23-06-2012;1083; Ministeriet ;Dan; Tastatur ; Microsoft Sculpt ;18;620
+23-06-2012;1083; Ministeriet ;Dan; Skærm ; HP Superskærm ;2;1.400,00
+23-06-2012;1083; Ministeriet ;Dan; Mus ; Apple Mouse ;16;400
+23-06-2012;1083; Ministeriet ;Dan; Computer ; HP Notebook ;14;5.000,00
+23-06-2012;1083; Ministeriet ;Dan; Mus ; Microsoft X-mouse ;20;345
+24-06-2012;1084; Butikken ;Erika; Computer ; Mac Pro ;14;28.000,00
+24-06-2012;1084; Butikken ;Erika; Mus ; Microsoft Sculpt-mus ;10;320
+24-06-2012;1084; Butikken ;Erika; Computer ; Lenova Carbon ;2;10.000,00
+24-06-2012;1084; Butikken ;Erika; Mus ; Apple Mouse ;4;400
+24-06-2012;1084; Butikken ;Erika; Computer ; Microsoft Surface ;2;6.000,00
+24-06-2012;1084; Butikken ;Erika; Tastatur ; Microsoft Sculpt ;15;620
+25-06-2012;1085; Mosteriet ;Frederikke; Computer ; Lenova Carbon ;5;10.000,00
+25-06-2012;1085; Mosteriet ;Frederikke; Mus ; Apple Mouse ;2;400
+25-06-2012;1085; Mosteriet ;Frederikke; Computer ; HP Notebook ;6;5.000,00
+25-06-2012;1085; Mosteriet ;Frederikke; Mus ; Logitech Supermus ;2;295
+25-06-2012;1085; Mosteriet ;Frederikke; Computer ; Microsoft Surface ;10;6.000,00
+26-06-2012;1086; PictureThis ;Gunnar; Skærm ; HP Superskærm ;14;1.400,00
+26-06-2012;1086; PictureThis ;Gunnar; Computer ; Mac Pro ;6;28.000,00
+26-06-2012;1086; PictureThis ;Gunnar; Skærm ; Samsung X27 ;3;1.900,00
+26-06-2012;1086; PictureThis ;Gunnar; Mus ; Microsoft Sculpt-mus ;12;320
+27-06-2012;1087; Jane og saftevandet ;Hans; Mus ; Microsoft Sculpt-mus ;8;320
+27-06-2012;1087; Jane og saftevandet ;Hans; Computer ; iMac ;18;10.000,00
+27-06-2012;1087; Jane og saftevandet ;Hans; Mus ; Logitech Supermus ;11;295
+28-06-2012;1088; Coaching A/S ;Carsten; Tastatur ; Apple Keyboard (small) ;14;695
+28-06-2012;1088; Coaching A/S ;Carsten; Mus ; Microsoft Sculpt-mus ;8;320
+28-06-2012;1088; Coaching A/S ;Carsten; Mus ; Apple Mouse ;15;400
+29-06-2012;1089; Skrotsamleren ;Carsten; Tastatur ; Microsoft Sculpt ;6;620
+29-06-2012;1089; Skrotsamleren ;Carsten; Skærm ; Samsung X27 ;12;1.900,00
+29-06-2012;1089; Skrotsamleren ;Carsten; Computer ; Microsoft Surface ;13;6.000,00
+29-06-2012;1089; Skrotsamleren ;Carsten; Mus ; Microsoft Sculpt-mus ;1;320
+29-06-2012;1089; Skrotsamleren ;Carsten; Tastatur ; Apple Keyboard (small) ;6;695
+29-06-2012;1089; Skrotsamleren ;Carsten; Skærm ; HP Superskærm ;9;1.400,00
+30-06-2012;1090; Dimser ApS ;Carsten; Skærm ; HP Superskærm ;1;1.400,00
+30-06-2012;1090; Dimser ApS ;Carsten; Computer ; Lenova Carbon ;18;10.000,00
+30-06-2012;1090; Dimser ApS ;Carsten; Tastatur ; Apple Keyboard (small) ;9;695
+30-06-2012;1090; Dimser ApS ;Carsten; Computer ; iMac ;19;10.000,00
+01-07-2012;1091; Tøj 'r' Os ;Bente; Computer ; Mac Pro ;13;28.000,00
+01-07-2012;1091; Tøj 'r' Os ;Bente; Tastatur ; Apple Keyboard (numeric) ;18;795
+01-07-2012;1091; Tøj 'r' Os ;Bente; Tastatur ; Microsoft Sculpt ;1;620
+01-07-2012;1091; Tøj 'r' Os ;Bente; Mus ; Logitech Supermus ;9;295
+02-07-2012;1092; Bumbumland ;Carsten; Tastatur ; Logitech Supertastatur ;19;500
+02-07-2012;1092; Bumbumland ;Carsten; Mus ; Apple Mouse ;10;400
+02-07-2012;1092; Bumbumland ;Carsten; Tastatur ; Apple Keyboard (numeric) ;15;795
+02-07-2012;1092; Bumbumland ;Carsten; Computer ; Mac Pro ;4;28.000,00
+02-07-2012;1092; Bumbumland ;Carsten; Tastatur ; Apple Keyboard (small) ;7;695
+02-07-2012;1092; Bumbumland ;Carsten; Skærm ; Samsung X27 ;19;1.900,00
+03-07-2012;1093; Ministeriet ;Dan; Tastatur ; Microsoft Sculpt ;11;620
+03-07-2012;1093; Ministeriet ;Dan; Computer ; HP Notebook ;8;5.000,00
+03-07-2012;1093; Ministeriet ;Dan; Computer ; iMac ;12;10.000,00
+03-07-2012;1093; Ministeriet ;Dan; Skærm ; Samsung X27 ;5;1.900,00
+03-07-2012;1093; Ministeriet ;Dan; Mus ; Microsoft X-mouse ;20;345
+04-07-2012;1094; Butikken ;Erika; Tastatur ; Microsoft Sculpt ;13;620
+04-07-2012;1094; Butikken ;Erika; Computer ; Mac Pro ;10;28.000,00
+04-07-2012;1094; Butikken ;Erika; Mus ; Microsoft X-mouse ;18;345
+05-07-2012;1095; Mosteriet ;Frederikke; Skærm ; HP Superskærm ;16;1.400,00
+05-07-2012;1095; Mosteriet ;Frederikke; Skærm ; Samsung X27 ;5;1.900,00
+05-07-2012;1095; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (numeric) ;2;795
+05-07-2012;1095; Mosteriet ;Frederikke; Mus ; Apple Mouse ;5;400
+05-07-2012;1095; Mosteriet ;Frederikke; Tastatur ; Apple Keyboard (small) ;7;695
+06-07-2012;1096; PictureThis ;Gunnar; Tastatur ; Microsoft Sculpt ;19;620
+06-07-2012;1096; PictureThis ;Gunnar; Tastatur ; Logitech Supertastatur ;18;500
+06-07-2012;1096; PictureThis ;Gunnar; Mus ; Logitech Supermus ;10;295
+07-07-2012;1097; Jane og saftevandet ;Hans; Computer ; iMac ;16;10.000,00
+07-07-2012;1097; Jane og saftevandet ;Hans; Computer ; Microsoft Surface ;18;6.000,00
+07-07-2012;1097; Jane og saftevandet ;Hans; Tastatur ; Microsoft Sculpt ;11;620
+07-07-2012;1097; Jane og saftevandet ;Hans; Computer ; Mac Pro ;2;28.000,00
+07-07-2012;1097; Jane og saftevandet ;Hans; Tastatur ; Apple Keyboard (small) ;6;695
+08-07-2012;1098; Coaching A/S ;Ida; Tastatur ; Logitech Supertastatur ;2;500
+09-07-2012;1099; Skrotsamleren ;Jessica; Tastatur ; Apple Keyboard (small) ;19;695
+09-07-2012;1099; Skrotsamleren ;Jessica; Skærm ; Samsung X27 ;15;1.900,00
+10-07-2012;1100; Dimser ApS ;Gunnar; Computer ; HP Notebook ;17;5.000,00
+10-07-2012;1100; Dimser ApS ;Gunnar; Tastatur ; Apple Keyboard (numeric) ;3;795
+10-07-2012;1100; Dimser ApS ;Gunnar; Mus ; Logitech Supermus ;5;295
+10-07-2012;1100; Dimser ApS ;Gunnar; Mus ; Microsoft X-mouse ;3;345
+11-07-2012;1101; Tøj 'r' Os ;Bente;Mus;Microsoft Sculpt-mus;20;320
+11-07-2012;1101; Tøj 'r' Os ;Bente;Computer;iMac;8;10.000,00
+12-07-2012;1102; Bumbumland ;Carsten;Tastatur;Microsoft Sculpt;11;620
+12-07-2012;1102; Bumbumland ;Carsten;Mus;Logitech Supermus;2;295
+13-07-2012;1103; Ministeriet ;Dan;Skærm;HP Superskærm;15;1.400,00
+13-07-2012;1103; Ministeriet ;Dan;Mus;Apple Mouse;11;400
+13-07-2012;1103; Ministeriet ;Dan;Computer;Mac Pro;12;28.000,00
+14-07-2012;1104; Butikken ;Erika;Computer;iMac;16;10.000,00
+14-07-2012;1104; Butikken ;Erika;Computer;Microsoft Surface;9;6.000,00
+15-07-2012;1105; Mosteriet ;Frederikke;Skærm;Samsung X27;7;1.900,00
+15-07-2012;1105; Mosteriet ;Frederikke;Computer;Mac Pro;6;28.000,00
+15-07-2012;1105; Mosteriet ;Frederikke;Computer;HP Notebook;6;5.000,00
+15-07-2012;1105; Mosteriet ;Frederikke;Tastatur;Logitech Supertastatur;8;500
+16-07-2012;1106; PictureThis ;Gunnar;Computer;iMac;11;10.000,00
+16-07-2012;1106; PictureThis ;Gunnar;Mus;Microsoft X-mouse;10;345
+17-07-2012;1107; Jane og saftevandet ;Dan;Tastatur;Apple Keyboard (small);4;695
+17-07-2012;1107; Jane og saftevandet ;Dan;Tastatur;Apple Keyboard (numeric);1;795
+17-07-2012;1107; Jane og saftevandet ;Dan;Computer;Microsoft Surface;11;6.000,00
+18-07-2012;1108; Coaching A/S ;Ida;Skærm;HP Superskærm;8;1.400,00
+18-07-2012;1108; Coaching A/S ;Ida;Computer;Microsoft Surface;16;6.000,00
+19-07-2012;1109; Skrotsamleren ;Jessica;Mus;Logitech Supermus;11;295
+19-07-2012;1109; Skrotsamleren ;Jessica;Mus;Microsoft Sculpt-mus;8;320
+20-07-2012;1110; Dimser ApS ;Anders;Tastatur;Microsoft Sculpt;20;620
+20-07-2012;1110; Dimser ApS ;Anders;Tastatur;Apple Keyboard (numeric);6;795
+20-07-2012;1110; Dimser ApS ;Anders;Computer;HP Notebook;11;5.000,00
+20-07-2012;1110; Dimser ApS ;Anders;Computer;Microsoft Surface;7;6.000,00
+20-07-2012;1110; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;14;320
+20-07-2012;1110; Dimser ApS ;Anders;Skærm;HP Superskærm;11;1.400,00
+21-07-2012;1111; Tøj 'r' Os ;Bente;Mus;Microsoft X-mouse;12;345
+22-07-2012;1112; Bumbumland ;Carsten;Tastatur;Microsoft Sculpt;4;620
+22-07-2012;1112; Bumbumland ;Carsten;Tastatur;Logitech Supertastatur;10;500
+22-07-2012;1112; Bumbumland ;Carsten;Mus;Microsoft Sculpt-mus;13;320
+22-07-2012;1112; Bumbumland ;Carsten;Computer;Mac Pro;6;28.000,00
+22-07-2012;1112; Bumbumland ;Carsten;Computer;HP Notebook;17;5.000,00
+23-07-2012;1113; Ministeriet ;Dan;Skærm;HP Superskærm;7;1.400,00
+23-07-2012;1113; Ministeriet ;Dan;Computer;Lenova Carbon;15;10.000,00
+23-07-2012;1113; Ministeriet ;Dan;Mus;Microsoft Sculpt-mus;6;320
+24-07-2012;1114; Butikken ;Erika;Tastatur;Apple Keyboard (small);4;695
+24-07-2012;1114; Butikken ;Erika;Mus;Microsoft Sculpt-mus;3;320
+24-07-2012;1114; Butikken ;Erika;Skærm;Samsung X27;8;1.900,00
+25-07-2012;1115; Mosteriet ;Frederikke;Mus;Logitech Supermus;3;295
+26-07-2012;1116; PictureThis ;Gunnar;Mus;Logitech Supermus;1;295
+26-07-2012;1116; PictureThis ;Gunnar;Skærm;HP Superskærm;15;1.400,00
+26-07-2012;1116; PictureThis ;Gunnar;Computer;Lenova Carbon;12;10.000,00
+26-07-2012;1116; PictureThis ;Gunnar;Tastatur;Apple Keyboard (numeric);8;795
+27-07-2012;1117; Jane og saftevandet ;Hans;Computer;Lenova Carbon;14;10.000,00
+27-07-2012;1117; Jane og saftevandet ;Hans;Mus;Microsoft Sculpt-mus;17;320
+27-07-2012;1117; Jane og saftevandet ;Hans;Mus;Microsoft X-mouse;15;345
+28-07-2012;1118; Coaching A/S ;Ida;Computer;iMac;18;10.000,00
+29-07-2012;1119; Skrotsamleren ;Jessica;Mus;Microsoft X-mouse;17;345
+29-07-2012;1119; Skrotsamleren ;Jessica;Computer;Mac Pro;16;28.000,00
+30-07-2012;1120; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);19;695
+30-07-2012;1120; Dimser ApS ;Anders;Skærm;HP Superskærm;3;1.400,00
+30-07-2012;1120; Dimser ApS ;Anders;Tastatur;Microsoft Sculpt;1;620
+30-07-2012;1120; Dimser ApS ;Anders;Mus;Logitech Supermus;7;295
+31-07-2012;1121; Tøj 'r' Os ;Dan;Computer;HP Notebook;14;5.000,00
+31-07-2012;1121; Tøj 'r' Os ;Dan;Mus;Apple Mouse;16;400
+01-08-2012;1122; Bumbumland ;Carsten;Computer;HP Notebook;12;5.000,00
+01-08-2012;1122; Bumbumland ;Carsten;Skærm;Samsung X27;8;1.900,00
+01-08-2012;1122; Bumbumland ;Carsten;Mus;Microsoft Sculpt-mus;12;320
+01-08-2012;1122; Bumbumland ;Carsten;Computer;iMac;14;10.000,00
+01-08-2012;1122; Bumbumland ;Carsten;Computer;Mac Pro;19;28.000,00
+01-08-2012;1122; Bumbumland ;Carsten;Tastatur;Microsoft Sculpt;10;620
+02-08-2012;1123; Ministeriet ;Dan;Skærm;Samsung X27;6;1.900,00
+02-08-2012;1123; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;4;620
+02-08-2012;1123; Ministeriet ;Dan;Computer;Lenova Carbon;2;10.000,00
+02-08-2012;1123; Ministeriet ;Dan;Mus;Microsoft Sculpt-mus;13;320
+03-08-2012;1124; Butikken ;Erika;Mus;Microsoft X-mouse;2;345
+03-08-2012;1124; Butikken ;Erika;Computer;HP Notebook;9;5.000,00
+03-08-2012;1124; Butikken ;Erika;Computer;Lenova Carbon;19;10.000,00
+03-08-2012;1124; Butikken ;Erika;Computer;Mac Pro;2;28.000,00
+04-08-2012;1125; Mosteriet ;Frederikke;Mus;Microsoft X-mouse;14;345
+04-08-2012;1125; Mosteriet ;Frederikke;Mus;Apple Mouse;19;400
+04-08-2012;1125; Mosteriet ;Frederikke;Skærm;Samsung X27;7;1.900,00
+04-08-2012;1125; Mosteriet ;Frederikke;Mus;Logitech Supermus;16;295
+05-08-2012;1126; PictureThis ;Gunnar;Computer;Microsoft Surface;5;6.000,00
+05-08-2012;1126; PictureThis ;Gunnar;Mus;Apple Mouse;10;400
+05-08-2012;1126; PictureThis ;Gunnar;Skærm;HP Superskærm;4;1.400,00
+06-08-2012;1127; Jane og saftevandet ;Hans;Skærm;Samsung X27;9;1.900,00
+06-08-2012;1127; Jane og saftevandet ;Hans;Mus;Apple Mouse;5;400
+07-08-2012;1128; Coaching A/S ;Ida;Mus;Microsoft Sculpt-mus;20;320
+07-08-2012;1128; Coaching A/S ;Ida;Computer;iMac;9;10.000,00
+07-08-2012;1128; Coaching A/S ;Ida;Skærm;HP Superskærm;3;1.400,00
+07-08-2012;1128; Coaching A/S ;Ida;Tastatur;Microsoft Sculpt;17;620
+07-08-2012;1128; Coaching A/S ;Ida;Mus;Apple Mouse;13;400
+08-08-2012;1129; Skrotsamleren ;Jessica;Computer;iMac;12;10.000,00
+08-08-2012;1129; Skrotsamleren ;Jessica;Tastatur;Microsoft Sculpt;7;620
+08-08-2012;1129; Skrotsamleren ;Jessica;Tastatur;Apple Keyboard (numeric);18;795
+09-08-2012;1130; Dimser ApS ;Anders;Mus;Apple Mouse;17;400
+09-08-2012;1130; Dimser ApS ;Anders;Mus;Logitech Supermus;9;295
+10-08-2012;1131; Tøj 'r' Os ;Bente;Skærm;HP Superskærm;12;1.400,00
+10-08-2012;1131; Tøj 'r' Os ;Bente;Mus;Microsoft X-mouse;15;345
+11-08-2012;1132; Bumbumland ;Carsten;Computer;Microsoft Surface;9;6.000,00
+12-08-2012;1133; Ministeriet ;Dan;Computer;Mac Pro;1;28.000,00
+12-08-2012;1133; Ministeriet ;Dan;Skærm;HP Superskærm;8;1.400,00
+12-08-2012;1133; Ministeriet ;Dan;Tastatur;Logitech Supertastatur;15;500
+12-08-2012;1133; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;13;620
+13-08-2012;1134; Butikken ;Erika;Mus;Logitech Supermus;6;295
+13-08-2012;1134; Butikken ;Erika;Tastatur;Apple Keyboard (small);6;695
+13-08-2012;1134; Butikken ;Erika;Computer;Mac Pro;7;28.000,00
+14-08-2012;1135; Mosteriet ;Frederikke;Mus;Apple Mouse;11;400
+14-08-2012;1135; Mosteriet ;Frederikke;Tastatur;Logitech Supertastatur;6;500
+14-08-2012;1135; Mosteriet ;Frederikke;Computer;iMac;2;10.000,00
+14-08-2012;1135; Mosteriet ;Frederikke;Tastatur;Microsoft Sculpt;9;620
+14-08-2012;1135; Mosteriet ;Frederikke;Tastatur;Apple Keyboard (small);14;695
+14-08-2012;1135; Mosteriet ;Frederikke;Mus;Logitech Supermus;1;295
+15-08-2012;1136; PictureThis ;Gunnar;Skærm;Samsung X27;4;1.900,00
+15-08-2012;1136; PictureThis ;Gunnar;Computer;iMac;14;10.000,00
+15-08-2012;1136; PictureThis ;Gunnar;Mus;Microsoft Sculpt-mus;18;320
+15-08-2012;1136; PictureThis ;Gunnar;Computer;Lenova Carbon;18;10.000,00
+16-08-2012;1137; Jane og saftevandet ;Hans;Tastatur;Apple Keyboard (small);15;695
+16-08-2012;1137; Jane og saftevandet ;Hans;Computer;Microsoft Surface;15;6.000,00
+16-08-2012;1137; Jane og saftevandet ;Hans;Skærm;HP Superskærm;7;1.400,00
+17-08-2012;1138; Coaching A/S ;Ida;Tastatur;Apple Keyboard (numeric);19;795
+17-08-2012;1138; Coaching A/S ;Ida;Computer;Lenova Carbon;1;10.000,00
+18-08-2012;1139; Skrotsamleren ;Jessica;Tastatur;Microsoft Sculpt;16;620
+18-08-2012;1139; Skrotsamleren ;Jessica;Tastatur;Apple Keyboard (small);11;695
+18-08-2012;1139; Skrotsamleren ;Jessica;Computer;iMac;11;10.000,00
+19-08-2012;1140; Dimser ApS ;Anders;Computer;HP Notebook;5;5.000,00
+19-08-2012;1140; Dimser ApS ;Anders;Mus;Microsoft X-mouse;3;345
+19-08-2012;1140; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;9;320
+20-08-2012;1141; Tøj 'r' Os ;Bente;Tastatur;Logitech Supertastatur;4;500
+20-08-2012;1141; Tøj 'r' Os ;Bente;Skærm;Samsung X27;13;1.900,00
+20-08-2012;1141; Tøj 'r' Os ;Bente;Tastatur;Apple Keyboard (small);11;695
+20-08-2012;1141; Tøj 'r' Os ;Bente;Tastatur;Apple Keyboard (numeric);12;795
+20-08-2012;1141; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;17;10.000,00
+21-08-2012;1142; Bumbumland ;Carsten;Tastatur;Apple Keyboard (small);16;695
+21-08-2012;1142; Bumbumland ;Carsten;Tastatur;Logitech Supertastatur;16;500
+21-08-2012;1142; Bumbumland ;Carsten;Skærm;Samsung X27;1;1.900,00
+21-08-2012;1142; Bumbumland ;Carsten;Tastatur;Microsoft Sculpt;1;620
+22-08-2012;1143; Ministeriet ;Dan;Mus;Logitech Supermus;11;295
+22-08-2012;1143; Ministeriet ;Dan;Tastatur;Logitech Supertastatur;3;500
+22-08-2012;1143; Ministeriet ;Dan;Computer;HP Notebook;17;5.000,00
+22-08-2012;1143; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;7;620
+22-08-2012;1143; Ministeriet ;Dan;Tastatur;Apple Keyboard (small);18;695
+23-08-2012;1144; Butikken ;Erika;Tastatur;Apple Keyboard (small);6;695
+23-08-2012;1144; Butikken ;Erika;Mus;Microsoft X-mouse;9;345
+24-08-2012;1145; Mosteriet ;Frederikke;Computer;HP Notebook;11;5.000,00
+24-08-2012;1145; Mosteriet ;Frederikke;Mus;Logitech Supermus;8;295
+25-08-2012;1146; PictureThis ;Gunnar;Tastatur;Apple Keyboard (small);13;695
+25-08-2012;1146; PictureThis ;Gunnar;Tastatur;Apple Keyboard (numeric);18;795
+25-08-2012;1146; PictureThis ;Gunnar;Skærm;HP Superskærm;15;1.400,00
+26-08-2012;1147; Jane og saftevandet ;Hans;Mus;Logitech Supermus;2;295
+26-08-2012;1147; Jane og saftevandet ;Hans;Computer;iMac;6;10.000,00
+26-08-2012;1147; Jane og saftevandet ;Hans;Computer;HP Notebook;18;5.000,00
+26-08-2012;1147; Jane og saftevandet ;Hans;Computer;Microsoft Surface;10;6.000,00
+26-08-2012;1147; Jane og saftevandet ;Hans;Skærm;Samsung X27;18;1.900,00
+26-08-2012;1147; Jane og saftevandet ;Hans;Mus;Microsoft Sculpt-mus;13;320
+27-08-2012;1148; Coaching A/S ;Ida;Tastatur;Apple Keyboard (small);5;695
+27-08-2012;1148; Coaching A/S ;Ida;Mus;Microsoft Sculpt-mus;8;320
+28-08-2012;1149; Skrotsamleren ;Jessica;Skærm;Samsung X27;3;1.900,00
+28-08-2012;1149; Skrotsamleren ;Jessica;Computer;Lenova Carbon;5;10.000,00
+28-08-2012;1149; Skrotsamleren ;Jessica;Skærm;HP Superskærm;1;1.400,00
+29-08-2012;1150; Dimser ApS ;Anders;Computer;Microsoft Surface;14;6.000,00
+29-08-2012;1150; Dimser ApS ;Anders;Skærm;Samsung X27;18;1.900,00
+29-08-2012;1150; Dimser ApS ;Anders;Computer;iMac;20;10.000,00
+30-08-2012;1151; Tøj 'r' Os ;Bente;Mus;Microsoft Sculpt-mus;4;320
+30-08-2012;1151; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;14;10.000,00
+31-08-2012;1152; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);1;795
+31-08-2012;1152; Bumbumland ;Carsten;Skærm;Samsung X27;20;1.900,00
+31-08-2012;1152; Bumbumland ;Carsten;Mus;Logitech Supermus;5;295
+31-08-2012;1152; Bumbumland ;Carsten;Mus;Apple Mouse;11;400
+31-08-2012;1152; Bumbumland ;Carsten;Mus;Microsoft X-mouse;18;345
+01-09-2012;1153; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;3;620
+01-09-2012;1153; Ministeriet ;Dan;Computer;HP Notebook;13;5.000,00
+01-09-2012;1153; Ministeriet ;Dan;Tastatur;Apple Keyboard (small);16;695
+02-09-2012;1154; Butikken ;Erika;Mus;Logitech Supermus;14;295
+02-09-2012;1154; Butikken ;Erika;Mus;Microsoft Sculpt-mus;19;320
+03-09-2012;1155; Mosteriet ;Frederikke;Tastatur;Logitech Supertastatur;12;500
+04-09-2012;1156; PictureThis ;Gunnar;Mus;Apple Mouse;15;400
+04-09-2012;1156; PictureThis ;Gunnar;Tastatur;Apple Keyboard (numeric);18;795
+04-09-2012;1156; PictureThis ;Gunnar;Computer;Lenova Carbon;8;10.000,00
+04-09-2012;1156; PictureThis ;Gunnar;Mus;Microsoft X-mouse;19;345
+04-09-2012;1156; PictureThis ;Gunnar;Mus;Microsoft Sculpt-mus;9;320
+04-09-2012;1156; PictureThis ;Gunnar;Skærm;Samsung X27;17;1.900,00
+04-09-2012;1156; PictureThis ;Gunnar;Computer;iMac;19;10.000,00
+05-09-2012;1157; Jane og saftevandet ;Hans;Computer;Mac Pro;8;28.000,00
+05-09-2012;1157; Jane og saftevandet ;Hans;Computer;Microsoft Surface;11;6.000,00
+05-09-2012;1157; Jane og saftevandet ;Hans;Tastatur;Apple Keyboard (small);6;695
+05-09-2012;1157; Jane og saftevandet ;Hans;Skærm;HP Superskærm;20;1.400,00
+05-09-2012;1157; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;1;620
+06-09-2012;1158; Coaching A/S ;Ida;Tastatur;Logitech Supertastatur;14;500
+07-09-2012;1159; Skrotsamleren ;Jessica;Tastatur;Apple Keyboard (numeric);14;795
+07-09-2012;1159; Skrotsamleren ;Jessica;Computer;Microsoft Surface;1;6.000,00
+07-09-2012;1159; Skrotsamleren ;Jessica;Mus;Apple Mouse;20;400
+08-09-2012;1160; Dimser ApS ;Anders;Mus;Microsoft X-mouse;12;345
+08-09-2012;1160; Dimser ApS ;Anders;Mus;Apple Mouse;13;400
+08-09-2012;1160; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;13;320
+08-09-2012;1160; Dimser ApS ;Anders;Computer;HP Notebook;6;5.000,00
+09-09-2012;1161; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;2;10.000,00
+10-09-2012;1162; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);20;795
+10-09-2012;1162; Bumbumland ;Carsten;Mus;Microsoft Sculpt-mus;12;320
+11-09-2012;1163; Ministeriet ;Dan;Skærm;HP Superskærm;9;1.400,00
+11-09-2012;1163; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;7;620
+12-09-2012;1164; Butikken ;Erika;Skærm;HP Superskærm;12;1.400,00
+13-09-2012;1165; Mosteriet ;Frederikke;Computer;Mac Pro;15;28.000,00
+13-09-2012;1165; Mosteriet ;Frederikke;Computer;HP Notebook;20;5.000,00
+13-09-2012;1165; Mosteriet ;Frederikke;Skærm;Samsung X27;13;1.900,00
+13-09-2012;1165; Mosteriet ;Frederikke;Computer;Lenova Carbon;7;10.000,00
+13-09-2012;1165; Mosteriet ;Frederikke;Mus;Logitech Supermus;4;295
+13-09-2012;1165; Mosteriet ;Frederikke;Tastatur;Apple Keyboard (small);8;695
+14-09-2012;1166; PictureThis ;Gunnar;Tastatur;Microsoft Sculpt;11;620
+15-09-2012;1167; Jane og saftevandet ;Hans;Computer;Microsoft Surface;10;6.000,00
+15-09-2012;1167; Jane og saftevandet ;Hans;Computer;Lenova Carbon;14;10.000,00
+15-09-2012;1167; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;19;620
+16-09-2012;1168; Coaching A/S ;Ida;Mus;Microsoft X-mouse;19;345
+16-09-2012;1168; Coaching A/S ;Ida;Computer;Lenova Carbon;13;10.000,00
+16-09-2012;1168; Coaching A/S ;Ida;Computer;iMac;2;10.000,00
+16-09-2012;1168; Coaching A/S ;Ida;Mus;Apple Mouse;2;400
+16-09-2012;1168; Coaching A/S ;Ida;Computer;Mac Pro;3;28.000,00
+17-09-2012;1169; Skrotsamleren ;Jessica;Skærm;Samsung X27;12;1.900,00
+17-09-2012;1169; Skrotsamleren ;Jessica;Computer;Microsoft Surface;12;6.000,00
+18-09-2012;1170; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);9;695
+18-09-2012;1170; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;10;320
+19-09-2012;1171; Tøj 'r' Os ;Bente;Mus;Microsoft X-mouse;18;345
+19-09-2012;1171; Tøj 'r' Os ;Bente;Mus;Apple Mouse;11;400
+19-09-2012;1171; Tøj 'r' Os ;Bente;Skærm;HP Superskærm;11;1.400,00
+19-09-2012;1171; Tøj 'r' Os ;Bente;Mus;Logitech Supermus;18;295
+19-09-2012;1171; Tøj 'r' Os ;Bente;Tastatur;Apple Keyboard (numeric);6;795
+20-09-2012;1172; Bumbumland ;Carsten;Computer;iMac;11;10.000,00
+20-09-2012;1172; Bumbumland ;Carsten;Computer;Mac Pro;4;28.000,00
+20-09-2012;1172; Bumbumland ;Carsten;Tastatur;Logitech Supertastatur;6;500
+20-09-2012;1172; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);19;795
+21-09-2012;1173; Ministeriet ;Dan;Tastatur;Logitech Supertastatur;14;500
+21-09-2012;1173; Ministeriet ;Dan;Mus;Microsoft X-mouse;18;345
+21-09-2012;1173; Ministeriet ;Dan;Computer;iMac;19;10.000,00
+21-09-2012;1173; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;4;620
+22-09-2012;1174; Butikken ;Erika;Mus;Apple Mouse;15;400
+22-09-2012;1174; Butikken ;Erika;Computer;Mac Pro;13;28.000,00
+23-09-2012;1175; Mosteriet ;Frederikke;Computer;Lenova Carbon;5;10.000,00
+23-09-2012;1175; Mosteriet ;Frederikke;Mus;Microsoft X-mouse;11;345
+23-09-2012;1175; Mosteriet ;Frederikke;Mus;Apple Mouse;19;400
+23-09-2012;1175; Mosteriet ;Frederikke;Computer;HP Notebook;9;5.000,00
+24-09-2012;1176; PictureThis ;Gunnar;Tastatur;Logitech Supertastatur;7;500
+25-09-2012;1177; Jane og saftevandet ;Hans;Computer;HP Notebook;15;5.000,00
+25-09-2012;1177; Jane og saftevandet ;Hans;Tastatur;Apple Keyboard (numeric);14;795
+25-09-2012;1177; Jane og saftevandet ;Hans;Mus;Apple Mouse;8;400
+25-09-2012;1177; Jane og saftevandet ;Hans;Tastatur;Logitech Supertastatur;6;500
+26-09-2012;1178; Coaching A/S ;Ida;Mus;Apple Mouse;1;400
+26-09-2012;1178; Coaching A/S ;Ida;Tastatur;Microsoft Sculpt;3;620
+26-09-2012;1178; Coaching A/S ;Ida;Mus;Microsoft X-mouse;18;345
+26-09-2012;1178; Coaching A/S ;Ida;Tastatur;Apple Keyboard (numeric);13;795
+26-09-2012;1178; Coaching A/S ;Ida;Computer;Lenova Carbon;5;10.000,00
+27-09-2012;1179; Skrotsamleren ;Jessica;Mus;Logitech Supermus;3;295
+27-09-2012;1179; Skrotsamleren ;Jessica;Tastatur;Apple Keyboard (numeric);9;795
+27-09-2012;1179; Skrotsamleren ;Jessica;Computer;Lenova Carbon;6;10.000,00
+27-09-2012;1179; Skrotsamleren ;Jessica;Computer;iMac;17;10.000,00
+28-09-2012;1180; Dimser ApS ;Anders;Mus;Apple Mouse;5;400
+28-09-2012;1180; Dimser ApS ;Anders;Mus;Logitech Supermus;5;295
+29-09-2012;1181; Tøj 'r' Os ;Bente;Tastatur;Logitech Supertastatur;20;500
+30-09-2012;1182; Bumbumland ;Carsten;Computer;Lenova Carbon;5;10.000,00
+30-09-2012;1182; Bumbumland ;Carsten;Computer;HP Notebook;15;5.000,00
+30-09-2012;1182; Bumbumland ;Carsten;Skærm;HP Superskærm;7;1.400,00
+30-09-2012;1182; Bumbumland ;Carsten;Tastatur;Microsoft Sculpt;15;620
+01-10-2012;1183; Ministeriet ;Dan;Tastatur;Logitech Supertastatur;20;500
+01-10-2012;1183; Ministeriet ;Dan;Computer;HP Notebook;10;5.000,00
+02-10-2012;1184; Butikken ;Erika;Computer;Microsoft Surface;1;6.000,00
+02-10-2012;1184; Butikken ;Erika;Skærm;Samsung X27;12;1.900,00
+02-10-2012;1184; Butikken ;Erika;Skærm;HP Superskærm;14;1.400,00
+02-10-2012;1184; Butikken ;Erika;Mus;Microsoft Sculpt-mus;20;320
+02-10-2012;1184; Butikken ;Erika;Computer;HP Notebook;8;5.000,00
+03-10-2012;1185; Mosteriet ;Frederikke;Mus;Apple Mouse;10;400
+04-10-2012;1186; PictureThis ;Gunnar;Computer;Microsoft Surface;2;6.000,00
+04-10-2012;1186; PictureThis ;Gunnar;Mus;Microsoft X-mouse;4;345
+04-10-2012;1186; PictureThis ;Gunnar;Skærm;HP Superskærm;8;1.400,00
+05-10-2012;1187; Jane og saftevandet ;Hans;Mus;Microsoft Sculpt-mus;11;320
+05-10-2012;1187; Jane og saftevandet ;Hans;Mus;Microsoft X-mouse;20;345
+05-10-2012;1187; Jane og saftevandet ;Hans;Skærm;HP Superskærm;15;1.400,00
+05-10-2012;1187; Jane og saftevandet ;Hans;Computer;Microsoft Surface;14;6.000,00
+05-10-2012;1187; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;19;620
+06-10-2012;1188; Coaching A/S ;Ida;Mus;Microsoft Sculpt-mus;20;320
+06-10-2012;1188; Coaching A/S ;Ida;Mus;Apple Mouse;13;400
+06-10-2012;1188; Coaching A/S ;Ida;Mus;Logitech Supermus;11;295
+06-10-2012;1188; Coaching A/S ;Ida;Computer;Lenova Carbon;4;10.000,00
+06-10-2012;1188; Coaching A/S ;Ida;Skærm;HP Superskærm;8;1.400,00
+06-10-2012;1188; Coaching A/S ;Ida;Tastatur;Apple Keyboard (small);5;695
+07-10-2012;1189; Skrotsamleren ;Jessica;Skærm;HP Superskærm;4;1.400,00
+07-10-2012;1189; Skrotsamleren ;Jessica;Mus;Apple Mouse;8;400
+07-10-2012;1189; Skrotsamleren ;Jessica;Tastatur;Microsoft Sculpt;2;620
+08-10-2012;1190; Dimser ApS ;Anders;Mus;Apple Mouse;6;400
+08-10-2012;1190; Dimser ApS ;Anders;Computer;Mac Pro;14;28.000,00
+08-10-2012;1190; Dimser ApS ;Anders;Tastatur;Microsoft Sculpt;14;620
+08-10-2012;1190; Dimser ApS ;Anders;Mus;Logitech Supermus;14;295
+08-10-2012;1190; Dimser ApS ;Anders;Skærm;HP Superskærm;19;1.400,00
+09-10-2012;1191; Tøj 'r' Os ;Bente;Computer;iMac;20;10.000,00
+09-10-2012;1191; Tøj 'r' Os ;Bente;Tastatur;Apple Keyboard (numeric);1;795
+10-10-2012;1192; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);20;795
+10-10-2012;1192; Bumbumland ;Carsten;Tastatur;Logitech Supertastatur;7;500
+10-10-2012;1192; Bumbumland ;Carsten;Computer;Mac Pro;18;28.000,00
+10-10-2012;1192; Bumbumland ;Carsten;Mus;Microsoft Sculpt-mus;12;320
+11-10-2012;1193; Ministeriet ;Dan;Computer;Lenova Carbon;2;10.000,00
+12-10-2012;1194; Butikken ;Erika;Tastatur;Microsoft Sculpt;19;620
+12-10-2012;1194; Butikken ;Erika;Skærm;Samsung X27;3;1.900,00
+13-10-2012;1195; Mosteriet ;Frederikke;Tastatur;Microsoft Sculpt;1;620
+13-10-2012;1195; Mosteriet ;Frederikke;Computer;Lenova Carbon;20;10.000,00
+13-10-2012;1195; Mosteriet ;Frederikke;Mus;Logitech Supermus;10;295
+14-10-2012;1196; PictureThis ;Gunnar;Mus;Microsoft Sculpt-mus;20;320
+14-10-2012;1196; PictureThis ;Gunnar;Skærm;Samsung X27;7;1.900,00
+15-10-2012;1197; Jane og saftevandet ;Hans;Mus;Logitech Supermus;17;295
+15-10-2012;1197; Jane og saftevandet ;Hans;Skærm;Samsung X27;15;1.900,00
+15-10-2012;1197; Jane og saftevandet ;Hans;Tastatur;Logitech Supertastatur;13;500
+15-10-2012;1197; Jane og saftevandet ;Hans;Computer;Lenova Carbon;4;10.000,00
+16-10-2012;1198; Coaching A/S ;Ida;Computer;Mac Pro;13;28.000,00
+16-10-2012;1198; Coaching A/S ;Ida;Mus;Apple Mouse;3;400
+16-10-2012;1198; Coaching A/S ;Ida;Skærm;Samsung X27;16;1.900,00
+17-10-2012;1199; Skrotsamleren ;Jessica;Computer;Microsoft Surface;9;6.000,00
+17-10-2012;1199; Skrotsamleren ;Jessica;Computer;iMac;5;10.000,00
+17-10-2012;1199; Skrotsamleren ;Jessica;Computer;Lenova Carbon;6;10.000,00
+18-10-2012;1200; Dimser ApS ;Anders;Tastatur;Microsoft Sculpt;16;620
+18-10-2012;1200; Dimser ApS ;Anders;Computer;Mac Pro;3;28.000,00
+18-10-2012;1200; Dimser ApS ;Anders;Mus;Apple Mouse;19;400
+18-10-2012;1200; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;17;320
+19-10-2012;1201; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;4;10.000,00
+19-10-2012;1201; Tøj 'r' Os ;Bente;Mus;Microsoft Sculpt-mus;13;320
+19-10-2012;1201; Tøj 'r' Os ;Bente;Tastatur;Microsoft Sculpt;18;620
+20-10-2012;1202; Bumbumland ;Carsten;Tastatur;Apple Keyboard (small);2;695
+21-10-2012;1203; Ministeriet ;Dan;Computer;HP Notebook;20;5.000,00
+21-10-2012;1203; Ministeriet ;Dan;Mus;Logitech Supermus;4;295
+22-10-2012;1204; Butikken ;Erika;Computer;Lenova Carbon;18;10.000,00
+24-10-2012;1206; PictureThis ;Gunnar;Mus;Logitech Supermus;7;295
+25-10-2012;1207; Jane og saftevandet ;Hans;Mus;Microsoft Sculpt-mus;9;320
+25-10-2012;1207; Jane og saftevandet ;Hans;Skærm;HP Superskærm;8;1.400,00
+25-10-2012;1207; Jane og saftevandet ;Hans;Computer;Mac Pro;11;28.000,00
+25-10-2012;1207; Jane og saftevandet ;Hans;Mus;Logitech Supermus;4;295
+26-10-2012;1208; Coaching A/S ;Ida;Tastatur;Apple Keyboard (small);9;695
+27-10-2012;1209; Skrotsamleren ;Jessica;Mus;Apple Mouse;6;400
+27-10-2012;1209; Skrotsamleren ;Jessica;Mus;Microsoft X-mouse;6;345
+28-10-2012;1210; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);6;695
+28-10-2012;1210; Dimser ApS ;Anders;Computer;HP Notebook;17;5.000,00
+28-10-2012;1210; Dimser ApS ;Anders;Mus;Apple Mouse;2;400
+29-10-2012;1211; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;18;10.000,00
+29-10-2012;1211; Tøj 'r' Os ;Bente;Skærm;HP Superskærm;16;1.400,00
+30-10-2012;1212; Bumbumland ;Carsten;Tastatur;Apple Keyboard (small);3;695
+30-10-2012;1212; Bumbumland ;Carsten;Mus;Logitech Supermus;20;295
+30-10-2012;1212; Bumbumland ;Carsten;Computer;iMac;18;10.000,00
+31-10-2012;1213; Ministeriet ;Dan;Mus;Microsoft X-mouse;1;345
+31-10-2012;1213; Ministeriet ;Dan;Computer;Microsoft Surface;5;6.000,00
+31-10-2012;1213; Ministeriet ;Dan;Mus;Logitech Supermus;13;295
+01-11-2012;1214; Butikken ;Erika;Computer;Mac Pro;14;28.000,00
+01-11-2012;1214; Butikken ;Erika;Mus;Apple Mouse;15;400
+01-11-2012;1214; Butikken ;Erika;Tastatur;Apple Keyboard (small);13;695
+03-11-2012;1216; PictureThis ;Gunnar;Computer;HP Notebook;1;5.000,00
+03-11-2012;1216; PictureThis ;Gunnar;Tastatur;Apple Keyboard (small);8;695
+04-11-2012;1217; Jane og saftevandet ;Hans;Tastatur;Logitech Supertastatur;1;500
+04-11-2012;1217; Jane og saftevandet ;Hans;Computer;Mac Pro;13;28.000,00
+04-11-2012;1217; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;20;620
+04-11-2012;1217; Jane og saftevandet ;Hans;Tastatur;Apple Keyboard (numeric);9;795
+04-11-2012;1217; Jane og saftevandet ;Hans;Mus;Logitech Supermus;3;295
+05-11-2012;1218; Coaching A/S ;Ida;Computer;HP Notebook;13;5.000,00
+05-11-2012;1218; Coaching A/S ;Ida;Skærm;HP Superskærm;7;1.400,00
+05-11-2012;1218; Coaching A/S ;Ida;Skærm;Samsung X27;6;1.900,00
+07-11-2012;1220; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;1;320
+08-11-2012;1221; Tøj 'r' Os ;Bente;Mus;Microsoft X-mouse;11;345
+08-11-2012;1221; Tøj 'r' Os ;Bente;Tastatur;Microsoft Sculpt;3;620
+09-11-2012;1222; Bumbumland ;Carsten;Skærm;Samsung X27;17;1.900,00
+10-11-2012;1223; Ministeriet ;Dan;Computer;Lenova Carbon;18;10.000,00
+10-11-2012;1223; Ministeriet ;Dan;Computer;iMac;19;10.000,00
+10-11-2012;1223; Ministeriet ;Dan;Skærm;Samsung X27;17;1.900,00
+10-11-2012;1223; Ministeriet ;Dan;Tastatur;Apple Keyboard (numeric);5;795
+10-11-2012;1223; Ministeriet ;Dan;Computer;Microsoft Surface;2;6.000,00
+11-11-2012;1224; Butikken ;Erika;Tastatur;Microsoft Sculpt;8;620
+11-11-2012;1224; Butikken ;Erika;Mus;Logitech Supermus;14;295
+12-11-2012;1225; Mosteriet ;Frederikke;Mus;Microsoft X-mouse;19;345
+13-11-2012;1226; PictureThis ;Gunnar;Skærm;Samsung X27;15;1.900,00
+13-11-2012;1226; PictureThis ;Gunnar;Computer;HP Notebook;11;5.000,00
+14-11-2012;1227; Jane og saftevandet ;Hans;Mus;Logitech Supermus;4;295
+14-11-2012;1227; Jane og saftevandet ;Hans;Computer;Mac Pro;8;28.000,00
+14-11-2012;1227; Jane og saftevandet ;Hans;Computer;Microsoft Surface;16;6.000,00
+15-11-2012;1228; Coaching A/S ;Ida;Computer;Microsoft Surface;6;6.000,00
+15-11-2012;1228; Coaching A/S ;Ida;Computer;HP Notebook;18;5.000,00
+15-11-2012;1228; Coaching A/S ;Ida;Mus;Apple Mouse;1;400
+15-11-2012;1228; Coaching A/S ;Ida;Tastatur;Logitech Supertastatur;10;500
+16-11-2012;1229; Skrotsamleren ;Jessica;Computer;iMac;3;10.000,00
+16-11-2012;1229; Skrotsamleren ;Jessica;Tastatur;Logitech Supertastatur;20;500
+16-11-2012;1229; Skrotsamleren ;Jessica;Computer;HP Notebook;12;5.000,00
+17-11-2012;1230; Dimser ApS ;Anders;Computer;Microsoft Surface;12;6.000,00
+17-11-2012;1230; Dimser ApS ;Anders;Computer;Lenova Carbon;4;10.000,00
+17-11-2012;1230; Dimser ApS ;Anders;Tastatur;Apple Keyboard (numeric);6;795
+17-11-2012;1230; Dimser ApS ;Anders;Mus;Logitech Supermus;9;295
+17-11-2012;1230; Dimser ApS ;Anders;Tastatur;Microsoft Sculpt;10;620
+18-11-2012;1231; Tøj 'r' Os ;Bente;Mus;Microsoft Sculpt-mus;19;320
+18-11-2012;1231; Tøj 'r' Os ;Bente;Computer;iMac;7;10.000,00
+18-11-2012;1231; Tøj 'r' Os ;Bente;Skærm;Samsung X27;3;1.900,00
+19-11-2012;1232; Bumbumland ;Carsten;Tastatur;Logitech Supertastatur;19;500
+19-11-2012;1232; Bumbumland ;Carsten;Computer;Microsoft Surface;13;6.000,00
+19-11-2012;1232; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);14;795
+20-11-2012;1233; Ministeriet ;Dan;Mus;Microsoft X-mouse;18;345
+20-11-2012;1233; Ministeriet ;Dan;Mus;Logitech Supermus;3;295
+20-11-2012;1233; Ministeriet ;Dan;Tastatur;Logitech Supertastatur;14;500
+20-11-2012;1233; Ministeriet ;Dan;Skærm;Samsung X27;17;1.900,00
+21-11-2012;1234; Butikken ;Erika;Tastatur;Logitech Supertastatur;20;500
+21-11-2012;1234; Butikken ;Erika;Computer;Lenova Carbon;14;10.000,00
+22-11-2012;1235; Mosteriet ;Frederikke;Mus;Apple Mouse;3;400
+22-11-2012;1235; Mosteriet ;Frederikke;Tastatur;Apple Keyboard (small);14;695
+22-11-2012;1235; Mosteriet ;Frederikke;Tastatur;Microsoft Sculpt;19;620
+22-11-2012;1235; Mosteriet ;Frederikke;Tastatur;Apple Keyboard (numeric);12;795
+22-11-2012;1235; Mosteriet ;Frederikke;Mus;Logitech Supermus;15;295
+23-11-2012;1236; PictureThis ;Gunnar;Tastatur;Apple Keyboard (numeric);18;795
+23-11-2012;1236; PictureThis ;Gunnar;Tastatur;Logitech Supertastatur;7;500
+23-11-2012;1236; PictureThis ;Gunnar;Computer;Lenova Carbon;18;10.000,00
+23-11-2012;1236; PictureThis ;Gunnar;Computer;iMac;2;10.000,00
+23-11-2012;1236; PictureThis ;Gunnar;Skærm;HP Superskærm;13;1.400,00
+24-11-2012;1237; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;3;620
+24-11-2012;1237; Jane og saftevandet ;Hans;Mus;Apple Mouse;2;400
+24-11-2012;1237; Jane og saftevandet ;Hans;Computer;Lenova Carbon;12;10.000,00
+26-11-2012;1239; Skrotsamleren ;Jessica;Computer;iMac;17;10.000,00
+26-11-2012;1239; Skrotsamleren ;Jessica;Computer;Lenova Carbon;10;10.000,00
+26-11-2012;1239; Skrotsamleren ;Jessica;Computer;Microsoft Surface;2;6.000,00
+27-11-2012;1240; Dimser ApS ;Anders;Tastatur;Apple Keyboard (numeric);19;795
+27-11-2012;1240; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);10;695
+28-11-2012;1241; Tøj 'r' Os ;Bente;Tastatur;Microsoft Sculpt;8;620
+28-11-2012;1241; Tøj 'r' Os ;Bente;Tastatur;Apple Keyboard (small);4;695
+28-11-2012;1241; Tøj 'r' Os ;Bente;Computer;HP Notebook;4;5.000,00
+29-11-2012;1242; Bumbumland ;Carsten;Tastatur;Apple Keyboard (numeric);17;795
+29-11-2012;1242; Bumbumland ;Carsten;Computer;iMac;13;10.000,00
+29-11-2012;1242; Bumbumland ;Carsten;Computer;Lenova Carbon;19;10.000,00
+30-11-2012;1243; Ministeriet ;Dan;Tastatur;Microsoft Sculpt;2;620
+30-11-2012;1243; Ministeriet ;Dan;Mus;Logitech Supermus;11;295
+30-11-2012;1243; Ministeriet ;Dan;Tastatur;Apple Keyboard (numeric);8;795
+01-12-2012;1244; Butikken ;Erika;Tastatur;Apple Keyboard (small);8;695
+01-12-2012;1244; Butikken ;Erika;Mus;Microsoft X-mouse;12;345
+01-12-2012;1244; Butikken ;Erika;Skærm;HP Superskærm;17;1.400,00
+01-12-2012;1244; Butikken ;Erika;Mus;Logitech Supermus;15;295
+01-12-2012;1244; Butikken ;Erika;Computer;Microsoft Surface;10;6.000,00
+02-12-2012;1245; Mosteriet ;Frederikke;Mus;Apple Mouse;1;400
+02-12-2012;1245; Mosteriet ;Frederikke;Computer;Microsoft Surface;1;6.000,00
+02-12-2012;1245; Mosteriet ;Frederikke;Computer;Mac Pro;13;28.000,00
+02-12-2012;1245; Mosteriet ;Frederikke;Skærm;Samsung X27;14;1.900,00
+03-12-2012;1246; PictureThis ;Carsten;Tastatur;Microsoft Sculpt;12;620
+03-12-2012;1246; PictureThis ;Carsten;Mus;Apple Mouse;10;400
+03-12-2012;1246; PictureThis ;Carsten;Tastatur;Apple Keyboard (small);7;695
+05-12-2012;1248; Coaching A/S ;Carsten;Skærm;Samsung X27;16;1.900,00
+06-12-2012;1249; Skrotsamleren ;Carsten;Tastatur;Apple Keyboard (small);18;695
+06-12-2012;1249; Skrotsamleren ;Carsten;Tastatur;Apple Keyboard (numeric);15;795
+06-12-2012;1249; Skrotsamleren ;Carsten;Computer;Lenova Carbon;10;10.000,00
+06-12-2012;1249; Skrotsamleren ;Carsten;Mus;Microsoft Sculpt-mus;17;320
+06-12-2012;1249; Skrotsamleren ;Carsten;Computer;HP Notebook;19;5.000,00
+07-12-2012;1250; Dimser ApS ;Anders;Computer;HP Notebook;1;5.000,00
+07-12-2012;1250; Dimser ApS ;Anders;Mus;Microsoft Sculpt-mus;5;320
+07-12-2012;1250; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);16;695
+07-12-2012;1250; Dimser ApS ;Anders;Mus;Apple Mouse;13;400
+08-12-2012;1251;Coaching;Carsten;Skærm;Samsung X27;48;1.900,00
+08-12-2012;1251;Coaching;Carsten;Mus;Microsoft Sculpt-mus;24;320
+08-12-2012;1251;Coaching;Carsten;Tastatur;Apple Keyboard (small);24;695
+09-12-2012;1252;Mosteriet;Frederikke;Computer;Microsoft Surface;10;5.800,00
+10-12-2012;1253; Dimser ApS ;Anders;Tastatur;Apple Keyboard (small);4;695
+10-12-2012;1253; Dimser ApS ;Anders;Computer;HP Notebook;4;5.000,00
+10-12-2012;1253; Dimser ApS ;Anders;Mus;Apple Mouse;4;400
+11-12-2012;1254; Tøj 'r' Os ;Bente;Computer;Lenova Carbon;8;10.000,00
+11-12-2012;1254; Tøj 'r' Os ;Bente;Skærm;HP Superskærm;16;1.400,00
+12-12-2012;1255; Bumbumland ;Carsten;Tastatur;Apple Keyboard (small);5;695
+12-12-2012;1255; Bumbumland ;Carsten;Mus;Logitech Supermus;5;295
+12-12-2012;1255; Bumbumland ;Carsten;Computer;iMac;5;10.000,00
+13-12-2012;1256; Ministeriet ;Dan;Mus;Microsoft X-mouse;7;345
+13-12-2012;1256; Ministeriet ;Dan;Computer;Microsoft Surface;7;6.000,00
+13-12-2012;1256; Ministeriet ;Dan;Mus;Logitech Supermus;7;295
+14-12-2012;1257; Butikken ;Erika;Computer;Mac Pro;2;28.000,00
+14-12-2012;1257; Butikken ;Erika;Mus;Apple Mouse;2;400
+14-12-2012;1257; Butikken ;Erika;Tastatur;Apple Keyboard (small);2;695
+15-12-2012;1258; PictureThis ;Gunnar;Computer;HP Notebook;5;5.000,00
+15-12-2012;1258; PictureThis ;Gunnar;Tastatur;Apple Keyboard (small);5;695
+16-12-2012;1259; Jane og saftevandet ;Hans;Tastatur;Logitech Supertastatur;2;500
+16-12-2012;1259; Jane og saftevandet ;Hans;Computer;Mac Pro;2;28.000,00
+16-12-2012;1259; Jane og saftevandet ;Hans;Tastatur;Microsoft Sculpt;2;620
+16-12-2012;1259; Jane og saftevandet ;Hans;Tastatur;Apple Keyboard (numeric);2;795
+16-12-2012;1259; Jane og saftevandet ;Hans;Mus;Logitech Supermus;4;295
+17-12-2012;1260; Coaching A/S ;Ida;Computer;HP Notebook;4;5.000,00
+17-12-2012;1260; Coaching A/S ;Ida;Skærm;HP Superskærm;6;1.400,00
